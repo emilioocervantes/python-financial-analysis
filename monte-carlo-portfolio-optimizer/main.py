@@ -1,4 +1,4 @@
-tfrom market_data import download_prices
+from market_data import download_prices
 from portfolio import (
     calculate_portfolio_return,
     calculate_portfolio_volatility,
