@@ -12,7 +12,7 @@ import numpy as np
 
 #User inputs
 
-tickers = ["APP", "NFLX", "ADDYY", "ORCL", "ABNB", "NIKE"]
+tickers = ["APP", "NFLX", "ADDYY", "ORCL", "ABNB", "NKE"]
 start_date = "2022-01-01"
 risk_free_rate = 0.05
 number_of_portfolios = 10000
